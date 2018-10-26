@@ -23,13 +23,12 @@ namespace Welcome_to_the_team
         {
             try
             {
-            bool flag = false;
-            Console.WriteLine("Would you like to add a person? Press 1");
-            Console.WriteLine("If you want to view the list Press 2");
-            Console.WriteLine("Press 3 to leave");
-            int choosePath = int.Parse(Console.ReadLine());
-            if (Validation.AreNumbersValid(choosePath))
-            {
+
+                Console.WriteLine("Would you like to add a person? Press 1");
+                Console.WriteLine("If you want to view the list Press 2");
+                Console.WriteLine("Press 3 to leave");
+                int choosePath = int.Parse(Console.ReadLine());
+
                 if (choosePath == 1)
                 {
                     //add student
@@ -53,12 +52,7 @@ namespace Welcome_to_the_team
                     whichWay();
                 }
             }
-            if (flag == false)
-            {
-                Console.WriteLine("C'mon dude");
-                whichWay();
-            }
-            }
+
             catch (FormatException)
             {
 
