@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\bin\Debug\Welcome_to_the_team.exe.config
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\bin\Debug\Welcome_to_the_team.exe
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\bin\Debug\Welcome_to_the_team.pdb
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\obj\Debug\Welcome_to_the_team.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\obj\Debug\Welcome_to_the_team.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\obj\Debug\Welcome_to_the_team.exe
+C:\Users\rtoles\Desktop\Welcome_Team\Welcome_to_the_team\Welcome_to_the_team\obj\Debug\Welcome_to_the_team.pdb
